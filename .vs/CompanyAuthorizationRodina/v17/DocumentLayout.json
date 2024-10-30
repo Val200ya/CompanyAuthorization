@@ -1,0 +1,232 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\austr\\source\\repos\\CompanyAuthorizationRodina\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F144F34-382E-4E7B-8FC1-7BC8C3C656F2}|CompanyAuthorizationRodina\\CompanyAuthorizationRodina.csproj|c:\\users\\austr\\source\\repos\\companyauthorizationrodina\\companyauthorizationrodina\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F144F34-382E-4E7B-8FC1-7BC8C3C656F2}|CompanyAuthorizationRodina\\CompanyAuthorizationRodina.csproj|solutionrelative:companyauthorizationrodina\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F144F34-382E-4E7B-8FC1-7BC8C3C656F2}|CompanyAuthorizationRodina\\CompanyAuthorizationRodina.csproj|c:\\users\\austr\\source\\repos\\companyauthorizationrodina\\companyauthorizationrodina\\authorizationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F144F34-382E-4E7B-8FC1-7BC8C3C656F2}|CompanyAuthorizationRodina\\CompanyAuthorizationRodina.csproj|solutionrelative:companyauthorizationrodina\\authorizationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F144F34-382E-4E7B-8FC1-7BC8C3C656F2}|CompanyAuthorizationRodina\\CompanyAuthorizationRodina.csproj|c:\\users\\austr\\source\\repos\\companyauthorizationrodina\\companyauthorizationrodina\\authorizationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F144F34-382E-4E7B-8FC1-7BC8C3C656F2}|CompanyAuthorizationRodina\\CompanyAuthorizationRodina.csproj|solutionrelative:companyauthorizationrodina\\authorizationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F144F34-382E-4E7B-8FC1-7BC8C3C656F2}|CompanyAuthorizationRodina\\CompanyAuthorizationRodina.csproj|c:\\users\\austr\\source\\repos\\companyauthorizationrodina\\companyauthorizationrodina\\errormessagewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F144F34-382E-4E7B-8FC1-7BC8C3C656F2}|CompanyAuthorizationRodina\\CompanyAuthorizationRodina.csproj|solutionrelative:companyauthorizationrodina\\errormessagewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F144F34-382E-4E7B-8FC1-7BC8C3C656F2}|CompanyAuthorizationRodina\\CompanyAuthorizationRodina.csproj|c:\\users\\austr\\source\\repos\\companyauthorizationrodina\\companyauthorizationrodina\\errormessagewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F144F34-382E-4E7B-8FC1-7BC8C3C656F2}|CompanyAuthorizationRodina\\CompanyAuthorizationRodina.csproj|solutionrelative:companyauthorizationrodina\\errormessagewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F144F34-382E-4E7B-8FC1-7BC8C3C656F2}|CompanyAuthorizationRodina\\CompanyAuthorizationRodina.csproj|c:\\users\\austr\\source\\repos\\companyauthorizationrodina\\companyauthorizationrodina\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F144F34-382E-4E7B-8FC1-7BC8C3C656F2}|CompanyAuthorizationRodina\\CompanyAuthorizationRodina.csproj|solutionrelative:companyauthorizationrodina\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\austr\\AppData\\Local\\Temp\\.vsdbgsrc\\b202e958bb04cfade5e67ad24f9352af194ebbde46e4c3ce26a3e0ac00ab14bd\\NavigationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F144F34-382E-4E7B-8FC1-7BC8C3C656F2}|CompanyAuthorizationRodina\\CompanyAuthorizationRodina.csproj|c:\\users\\austr\\source\\repos\\companyauthorizationrodina\\companyauthorizationrodina\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F144F34-382E-4E7B-8FC1-7BC8C3C656F2}|CompanyAuthorizationRodina\\CompanyAuthorizationRodina.csproj|solutionrelative:companyauthorizationrodina\\userpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F144F34-382E-4E7B-8FC1-7BC8C3C656F2}|CompanyAuthorizationRodina\\CompanyAuthorizationRodina.csproj|c:\\users\\austr\\source\\repos\\companyauthorizationrodina\\companyauthorizationrodina\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6F144F34-382E-4E7B-8FC1-7BC8C3C656F2}|CompanyAuthorizationRodina\\CompanyAuthorizationRodina.csproj|solutionrelative:companyauthorizationrodina\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F144F34-382E-4E7B-8FC1-7BC8C3C656F2}|CompanyAuthorizationRodina\\CompanyAuthorizationRodina.csproj|c:\\users\\austr\\source\\repos\\companyauthorizationrodina\\companyauthorizationrodina\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F144F34-382E-4E7B-8FC1-7BC8C3C656F2}|CompanyAuthorizationRodina\\CompanyAuthorizationRodina.csproj|solutionrelative:companyauthorizationrodina\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 221,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthorizationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\CompanyAuthorizationRodina\\CompanyAuthorizationRodina\\AuthorizationPage.xaml",
+              "RelativeDocumentMoniker": "CompanyAuthorizationRodina\\AuthorizationPage.xaml",
+              "ToolTip": "C:\\Users\\austr\\source\\repos\\CompanyAuthorizationRodina\\CompanyAuthorizationRodina\\AuthorizationPage.xaml",
+              "RelativeToolTip": "CompanyAuthorizationRodina\\AuthorizationPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T21:19:19.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorizationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\CompanyAuthorizationRodina\\CompanyAuthorizationRodina\\AuthorizationPage.xaml.cs",
+              "RelativeDocumentMoniker": "CompanyAuthorizationRodina\\AuthorizationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\austr\\source\\repos\\CompanyAuthorizationRodina\\CompanyAuthorizationRodina\\AuthorizationPage.xaml.cs",
+              "RelativeToolTip": "CompanyAuthorizationRodina\\AuthorizationPage.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:47:47.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorMessageWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\CompanyAuthorizationRodina\\CompanyAuthorizationRodina\\ErrorMessageWindow.xaml",
+              "RelativeDocumentMoniker": "CompanyAuthorizationRodina\\ErrorMessageWindow.xaml",
+              "ToolTip": "C:\\Users\\austr\\source\\repos\\CompanyAuthorizationRodina\\CompanyAuthorizationRodina\\ErrorMessageWindow.xaml",
+              "RelativeToolTip": "CompanyAuthorizationRodina\\ErrorMessageWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T21:35:56.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorMessageWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\CompanyAuthorizationRodina\\CompanyAuthorizationRodina\\ErrorMessageWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CompanyAuthorizationRodina\\ErrorMessageWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\austr\\source\\repos\\CompanyAuthorizationRodina\\CompanyAuthorizationRodina\\ErrorMessageWindow.xaml.cs",
+              "RelativeToolTip": "CompanyAuthorizationRodina\\ErrorMessageWindow.xaml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:43:28.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistrationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\CompanyAuthorizationRodina\\CompanyAuthorizationRodina\\RegistrationPage.xaml.cs",
+              "RelativeDocumentMoniker": "CompanyAuthorizationRodina\\RegistrationPage.xaml.cs",
+              "ToolTip": "C:\\Users\\austr\\source\\repos\\CompanyAuthorizationRodina\\CompanyAuthorizationRodina\\RegistrationPage.xaml.cs",
+              "RelativeToolTip": "CompanyAuthorizationRodina\\RegistrationPage.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:46:45.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserPage.xaml",
+              "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\CompanyAuthorizationRodina\\CompanyAuthorizationRodina\\UserPage.xaml",
+              "RelativeDocumentMoniker": "CompanyAuthorizationRodina\\UserPage.xaml",
+              "ToolTip": "C:\\Users\\austr\\source\\repos\\CompanyAuthorizationRodina\\CompanyAuthorizationRodina\\UserPage.xaml",
+              "RelativeToolTip": "CompanyAuthorizationRodina\\UserPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T21:21:57.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\CompanyAuthorizationRodina\\CompanyAuthorizationRodina\\RegistrationPage.xaml",
+              "RelativeDocumentMoniker": "CompanyAuthorizationRodina\\RegistrationPage.xaml",
+              "ToolTip": "C:\\Users\\austr\\source\\repos\\CompanyAuthorizationRodina\\CompanyAuthorizationRodina\\RegistrationPage.xaml",
+              "RelativeToolTip": "CompanyAuthorizationRodina\\RegistrationPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T21:20:46.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\austr\\AppData\\Local\\Temp\\.vsdbgsrc\\b202e958bb04cfade5e67ad24f9352af194ebbde46e4c3ce26a3e0ac00ab14bd\\NavigationService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b202e958bb04cfade5e67ad24f9352af194ebbde46e4c3ce26a3e0ac00ab14bd\\NavigationService.cs",
+              "ToolTip": "C:\\Users\\austr\\AppData\\Local\\Temp\\.vsdbgsrc\\b202e958bb04cfade5e67ad24f9352af194ebbde46e4c3ce26a3e0ac00ab14bd\\NavigationService.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\b202e958bb04cfade5e67ad24f9352af194ebbde46e4c3ce26a3e0ac00ab14bd\\NavigationService.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AQIAAIoEAAAAAAAAAAASwJcEAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T22:12:14.131Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\CompanyAuthorizationRodina\\CompanyAuthorizationRodina\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CompanyAuthorizationRodina\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\austr\\source\\repos\\CompanyAuthorizationRodina\\CompanyAuthorizationRodina\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CompanyAuthorizationRodina\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:36:01.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\austr\\source\\repos\\CompanyAuthorizationRodina\\CompanyAuthorizationRodina\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "CompanyAuthorizationRodina\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\austr\\source\\repos\\CompanyAuthorizationRodina\\CompanyAuthorizationRodina\\MainWindow.xaml",
+              "RelativeToolTip": "CompanyAuthorizationRodina\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-30T16:36:02.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
