@@ -56,9 +56,6 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="AppFrame.cs" />
-    <Compile Include="ErrorMessageWindow.xaml.cs">
-      <DependentUpon>ErrorMessageWindow.xaml</DependentUpon>
-    </Compile>
     <Compile Include="RegistrationPage.xaml.cs">
       <DependentUpon>RegistrationPage.xaml</DependentUpon>
     </Compile>
@@ -66,10 +63,6 @@
       <DependentUpon>UserPage.xaml</DependentUpon>
     </Compile>
     <Page Include="AuthorizationPage.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="ErrorMessageWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

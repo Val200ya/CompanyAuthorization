@@ -41,6 +41,22 @@ namespace CompanyAuthorizationRodina {
     public partial class AuthorizationPage : System.Windows.Controls.Page, System.Windows.Markup.IComponentConnector {
         
         
+        #line 30 "..\..\AuthorizationPage.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.TextBox LogIn;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 31 "..\..\AuthorizationPage.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.PasswordBox Password;
+        
+        #line default
+        #line hidden
+        
+        
         #line 32 "..\..\AuthorizationPage.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button SignInBtn;
@@ -95,6 +111,12 @@ namespace CompanyAuthorizationRodina {
             switch (connectionId)
             {
             case 1:
+            this.LogIn = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 2:
+            this.Password = ((System.Windows.Controls.PasswordBox)(target));
+            return;
+            case 3:
             this.SignInBtn = ((System.Windows.Controls.Button)(target));
             
             #line 32 "..\..\AuthorizationPage.xaml"
@@ -103,7 +125,7 @@ namespace CompanyAuthorizationRodina {
             #line default
             #line hidden
             return;
-            case 2:
+            case 4:
             this.GoBackBtn = ((System.Windows.Controls.Button)(target));
             
             #line 33 "..\..\AuthorizationPage.xaml"
@@ -112,7 +134,7 @@ namespace CompanyAuthorizationRodina {
             #line default
             #line hidden
             return;
-            case 3:
+            case 5:
             this.frame = ((System.Windows.Controls.Frame)(target));
             return;
             }

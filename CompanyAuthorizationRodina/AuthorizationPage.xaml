@@ -27,8 +27,8 @@
         <TextBlock Text="Авторизация" Grid.ColumnSpan="3" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="36"/>
         <TextBlock Grid.Row="3" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="32">Логин</TextBlock>
         <TextBlock Grid.Row="5" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="32">Пароль</TextBlock>
-        <TextBox Grid.ColumnSpan="2" Grid.Column="1" Grid.Row="3" FontSize="32" Height="50" Width="400" HorizontalAlignment="Left"></TextBox>
-        <PasswordBox Grid.ColumnSpan="2" Grid.Column="1" Grid.Row="5" FontSize="32" Height="50" Width="400" HorizontalAlignment="Left"></PasswordBox>
+        <TextBox x:Name="LogIn" Grid.ColumnSpan="2" Grid.Column="1" Grid.Row="3" FontSize="32" Height="50" Width="400" HorizontalAlignment="Left"></TextBox>
+        <PasswordBox x:Name="Password" Grid.ColumnSpan="2" Grid.Column="1" Grid.Row="5" FontSize="32" Height="50" Width="400" HorizontalAlignment="Left"></PasswordBox>
         <Button x:Name="SignInBtn" Click="SignInBtn_Click" Grid.ColumnSpan="2" Grid.Row="7" Width="200" Height="50" HorizontalAlignment="Center" FontSize="28">Войти</Button>
         <Button x:Name="GoBackBtn" Click="GoBackBtn_Click" Grid.ColumnSpan="2" Grid.Row="7" Grid.Column="1" Width="200" Height="50" HorizontalAlignment="Center" FontSize="28">Назад</Button>
         <Frame x:Name="frame" Grid.RowSpan="9" Grid.ColumnSpan="3"/>

@@ -33,10 +33,10 @@
         <TextBlock Grid.Row="5" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="32">Фамилия</TextBlock>
         <TextBlock Grid.Row="7" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="32">Отчество</TextBlock>
         <TextBlock Grid.Row="9" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="32">Пароль</TextBlock>
-        <TextBox Grid.ColumnSpan="2" Grid.Column="1" Grid.Row="3" FontSize="32" Height="50" Width="400" HorizontalAlignment="Left"></TextBox>
-        <TextBox Grid.ColumnSpan="2" Grid.Column="1" Grid.Row="7" FontSize="32" Height="50" Width="400" HorizontalAlignment="Left"></TextBox>
-        <TextBox Grid.ColumnSpan="2" Grid.Column="1" Grid.Row="9" FontSize="32" Height="50" Width="400" HorizontalAlignment="Left"></TextBox>
-        <PasswordBox Grid.ColumnSpan="2" Grid.Column="1" Grid.Row="5" FontSize="32" Height="50" Width="400" HorizontalAlignment="Left"></PasswordBox>
+        <TextBox x:Name="Name" Grid.ColumnSpan="2" Grid.Column="1" Grid.Row="3" FontSize="32" Height="50" Width="400" HorizontalAlignment="Left"></TextBox>
+        <TextBox x:Name="Surname" Grid.ColumnSpan="2" Grid.Column="1" Grid.Row="7" FontSize="32" Height="50" Width="400" HorizontalAlignment="Left"></TextBox>
+        <TextBox x:Name="Lastname" Grid.ColumnSpan="2" Grid.Column="1" Grid.Row="9" FontSize="32" Height="50" Width="400" HorizontalAlignment="Left"></TextBox>
+        <PasswordBox x:Name="Password" Grid.ColumnSpan="2" Grid.Column="1" Grid.Row="5" FontSize="32" Height="50" Width="400" HorizontalAlignment="Left"></PasswordBox>
         <Button x:Name="RegistrationBtn" Click="RegistrationBtn_Click" Grid.ColumnSpan="2" Grid.Row="11" Width="300" Height="50" HorizontalAlignment="Center" FontSize="28">Зарегистрироваться</Button>
         <Button x:Name="GoBackBtn" Click="GoBackBtn_Click" Grid.ColumnSpan="2" Grid.Row="11" Grid.Column="1" Width="200" Height="50" HorizontalAlignment="Center" FontSize="28">Назад</Button>
     </Grid>

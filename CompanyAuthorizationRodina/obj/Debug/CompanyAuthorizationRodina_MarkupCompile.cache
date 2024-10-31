@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\austr\source\repos\CompanyAuthorizationRodina\CompanyAuthorizationRodina\obj\Debug\
+C:\Users\admin\Source\Repos\CompanyAuthorization\CompanyAuthorizationRodina\obj\Debug\
 CompanyAuthorizationRodina
 none
 false
 DEBUG;TRACE
-C:\Users\austr\source\repos\CompanyAuthorizationRodina\CompanyAuthorizationRodina\App.xaml
+C:\Users\admin\Source\Repos\CompanyAuthorization\CompanyAuthorizationRodina\App.xaml
 5-1735437784
 
-10791353640
+11-1290734978
 13-1310406943
 AuthorizationPage.xaml;ErrorMessageWindow.xaml;MainWindow.xaml;RegistrationPage.xaml;UserPage.xaml;
 
-False
+True
 

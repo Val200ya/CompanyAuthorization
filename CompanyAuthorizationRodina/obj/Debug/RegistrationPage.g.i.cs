@@ -41,6 +41,38 @@ namespace CompanyAuthorizationRodina {
     public partial class RegistrationPage : System.Windows.Controls.Page, System.Windows.Markup.IComponentConnector {
         
         
+        #line 36 "..\..\RegistrationPage.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.TextBox Name;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 37 "..\..\RegistrationPage.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.TextBox Surname;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 38 "..\..\RegistrationPage.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.TextBox Lastname;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 39 "..\..\RegistrationPage.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.PasswordBox Password;
+        
+        #line default
+        #line hidden
+        
+        
         #line 40 "..\..\RegistrationPage.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button RegistrationBtn;
@@ -87,6 +119,18 @@ namespace CompanyAuthorizationRodina {
             switch (connectionId)
             {
             case 1:
+            this.Name = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 2:
+            this.Surname = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 3:
+            this.Lastname = ((System.Windows.Controls.TextBox)(target));
+            return;
+            case 4:
+            this.Password = ((System.Windows.Controls.PasswordBox)(target));
+            return;
+            case 5:
             this.RegistrationBtn = ((System.Windows.Controls.Button)(target));
             
             #line 40 "..\..\RegistrationPage.xaml"
@@ -95,7 +139,7 @@ namespace CompanyAuthorizationRodina {
             #line default
             #line hidden
             return;
-            case 2:
+            case 6:
             this.GoBackBtn = ((System.Windows.Controls.Button)(target));
             
             #line 41 "..\..\RegistrationPage.xaml"
